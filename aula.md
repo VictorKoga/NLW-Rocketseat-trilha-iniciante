@@ -4,10 +4,10 @@ Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para 
 
 ## Peças de um linguagem
 -[x] Comentarios //
-- Delcaração de variaveis(conts,let)
-- Operadores(atributição, concatenação, matematica, logicos)
-- Tipo de dados( string, numeric, boolean)
-- Estrutura de dados (functions, object, array)
+- [x]Delcaração de variaveis(conts,let)
+- [x]Operadores(atributição, concatenação, matematica, logicos)
+- [x]Tipo de dados( string, numeric, boolean)
+- [x]Estrutura de dados (functions, object, array)
 - Estrutura de repetição(for, while)
 
 ## Fases da resolução de um problema
@@ -17,22 +17,37 @@ Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para 
 
 ## Escopo e Variavel
 
-Variaveis, globais e locais
-let mensagem = "olá mundo"
-mensagem = 2
-(QUANDO UTILZIADO A VARIVAEL LET EU POSSO MUDAR A MSG)
+- [x]Variaveis, globais e locais
+      let mensagem = "olá mundo"
+      mensagem = 2
+      (QUANDO UTILZIADO A VARIVAEL LET EU POSSO MUDAR A MSG)
 
-const mensagem = "olá mundo"
-mensagem = 2
-(QUANDO UTILZIADO A VARIVAEL CONST EU NAO POSSO MUDAR A MSG DA ERRO)
-- Constantes
+      const mensagem = "olá mundo"
+      mensagem = 2
+      (QUANDO UTILZIADO A VARIVAEL CONST EU NAO POSSO MUDAR A MSG DA ERRO)
+-[x] Constantes
 
 
 ## Tipo de dados
-String (textos): "" '' ``
-Integer (numeros): 2 1.4
-Function 
-Boolean (true / false ): verdadeiro ou falso
+-[x]String (textos): "" '' ``
+-[x]Integer (numeros): 2 1.4
+-[x]Boolean (true / false ): verdadeiro ou falso
 
 ## Operadores
-= Opererador de atribuição de valor
+-[x] Opererador de atribuição de valor
+-[x] Operador de contatenação
+
+## Estrutura de dados
+
+## Arrays
+- [x]Uma lista que cotem qualquer tipo de dado
+
+## Objetos
+- [x]Atributos e metodos
+- [x]Criação e manipulação de objetos
+- [x]Acesso a propriedades de objetos
+
+## Function 
+-[x]criar, passar argumento
+-[x]executar 
+-[x]arrow function / named function 
