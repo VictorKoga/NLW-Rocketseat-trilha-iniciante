@@ -71,3 +71,14 @@ console.log(metas[1].value)
 // fuction // arrow function tem um sinal diferente na escrita
 // const criarMeta = () => {}
 // function criarMeta() {}
+
+## Estrutura de repetição 
+- [x] while 
+const start = () => {
+  let count = 0
+  while(count <= 10){
+    console.log(count)
+    count = count + 1
+  }
+}
+start()
