@@ -43,6 +43,7 @@ Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para 
 
 ## Arrays
 - [x]Uma lista que cotem qualquer tipo de dado
+- [x]Metodo de array é toda a funca que esta dentro do objeto (push, find, forEach)
 
 ## Objetos
 - [x]Atributos e metodos
