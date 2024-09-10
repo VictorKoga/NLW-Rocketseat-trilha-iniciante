@@ -3,12 +3,13 @@ Maneira de dar instrução ao computador.
 Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para resolver os problemas.
 
 ## Peças de um linguagem
--[x] Comentarios //
+- [x] Comentarios //
 - [x]Delcaração de variaveis(conts,let)
 - [x]Operadores(atributição, concatenação, matematica, logicos)
 - [x]Tipo de dados( string, numeric, boolean)
 - [x]Estrutura de dados (functions, object, array)
-- Estrutura de repetição(for, while)
+- [x]Estrutura de repetição(for, while)
+- [x]Controle de fluxo (if/else)
 
 ## Fases da resolução de um problema
 - Coletar os dados
@@ -34,8 +35,9 @@ Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para 
 -[x]Boolean (true / false ): verdadeiro ou falso
 
 ## Operadores
--[x] Opererador de atribuição de valor
--[x] Operador de contatenação
+-[x] Opererador de atribuição de valor =
+-[x] Operador de contatenação +
+-[x] Operadores de comparação == != < > <= >=
 
 ## Estrutura de dados
 
@@ -101,6 +103,7 @@ const start = () => {
   }
 }
 start()
+- [x] if/else
 
 ## Modulos em Node.js:
 - [x]Importação de modulos {requires, CommonJS}
