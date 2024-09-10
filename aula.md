@@ -101,3 +101,11 @@ const start = () => {
   }
 }
 start()
+
+## Modulos em Node.js:
+- [x]Importação de modulos {requires, CommonJS}
+- [x]Bibilioteca 'inquirer' para criar prompts interativos
+
+## Programação assincrona e promisses
+- [x]use de função assincrona (async/await)
+- [x]
