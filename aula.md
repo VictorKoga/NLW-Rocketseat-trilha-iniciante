@@ -107,6 +107,11 @@ start()
 ## Modulos em Node.js:
 - [x]Importação de modulos {requires, CommonJS}
 - [x]Bibilioteca 'inquirer' para criar prompts interativos
+- [x]fs(file system) modulo nativo do node
 
+#JASON
+-[x]JavaScript Object notation (.json)
+-[x]JSON.parse() Transforma de JASON para js
+-[x]JSON.stringtofy() transforma de JS para JSON
 ## Programação assincrona e promisses
 - [x]use de função assincrona (async/await)
