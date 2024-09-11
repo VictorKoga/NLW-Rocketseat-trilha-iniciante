@@ -44,7 +44,7 @@ Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para 
 
 ## Arrays
 - [x]Uma lista que cotem qualquer tipo de dado
-- [x]Metodo de array é toda a funca que esta dentro do objeto (push, [find, forEach, filter] = HOF (Higher Order Functions))
+- [x]Metodo de array é toda a funca que esta dentro do objeto (push, map, [find, forEach, filter] = HOF (Higher Order Functions))
 
 ## Objetos
 - [x]Atributos e metodos
@@ -55,9 +55,6 @@ Como um lego, você ira utilizar as peças para criar algoritmos, ou seja, para 
 -[x]criar, passar argumento
 -[x]executar 
 -[x]arrow function / named function 
-
-
-
 // arrays, objetos
 let meta = {
   value: 'ler um livro por mês',
@@ -113,4 +110,3 @@ start()
 
 ## Programação assincrona e promisses
 - [x]use de função assincrona (async/await)
-- [x]
